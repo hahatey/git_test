@@ -3,3 +3,5 @@ new file
 b1 branch created.
 
 b1 second commit.
+
+b1 now would like to merge commit with master
