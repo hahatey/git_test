@@ -1,7 +1,15 @@
 new file 
 
+
 b1 branch created.
 
 b1 second commit.
 
 b1 now would like to merge commit with master
+
+master commit 1
+
+master commit 2
+
+master commit 3
+
